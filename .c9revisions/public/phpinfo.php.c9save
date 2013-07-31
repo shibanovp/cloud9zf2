@@ -1,0 +1,8 @@
+{"ts":1375288209943,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1375288066594,"patch":[[{"diffs":[[1,"<?php\n"]],"start1":0,"start2":0,"length1":0,"length2":6}]],"length":6,"saved":false}
+{"ts":1375288074176,"patch":[[{"diffs":[[0,"<?php\n"],[1,"php"]],"start1":0,"start2":0,"length1":6,"length2":9}]],"length":9,"saved":false}
+{"ts":1375288075738,"patch":[[{"diffs":[[0,"?php\nphp"],[1,"ib"]],"start1":1,"start2":1,"length1":8,"length2":10}]],"length":11,"saved":false}
+{"ts":1375288076738,"patch":[[{"diffs":[[0,"phpi"],[-1,"b"],[1,"nf"]],"start1":6,"start2":6,"length1":5,"length2":6}]],"length":12,"saved":false}
+{"ts":1375288077918,"patch":[[{"diffs":[[0,"p\nphpinf"],[1,"o()"]],"start1":4,"start2":4,"length1":8,"length2":11}]],"length":15,"saved":false}
+{"ts":1375288078581,"patch":[[{"diffs":[[0,"hpinfo()"],[1,";"]],"start1":7,"start2":7,"length1":8,"length2":9}]],"length":16,"saved":false}
+{"ts":1375288111438,"patch":[[{"diffs":[[0,"pinfo();"],[1,"\n"]],"start1":8,"start2":8,"length1":8,"length2":9}]],"length":17,"saved":false}
